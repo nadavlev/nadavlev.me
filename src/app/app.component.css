@@ -1,0 +1,10 @@
+.main-bar {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.main-nav {
+  display: inline-flex;
+  justify-content: center;
+}
